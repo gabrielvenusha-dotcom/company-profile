@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "Website Kopi Senja", "client": "Kopi Senja", "category": "Website", "year": 2025, "description": "Company profile dan katalog menu untuk jaringan kafe lokal." },
+  { "id": 2, "title": "Dashboard Klinik Sehat", "client": "Klinik Sehat", "category": "Aplikasi Web", "year": 2025, "description": "Sistem antrean dan rekam kunjungan pasien berbasis web." },
+  { "id": 3, "title": "Rebranding Toko Batik Laras", "client": "Batik Laras", "category": "Branding", "year": 2024, "description": "Logo baru dan panduan identitas visual untuk toko batik." },
+  { "id": 4, "title": "Aplikasi Reservasi Futsal", "client": "Arena Futsal 88", "category": "Aplikasi Web", "year": 2024, "description": "Pemesanan lapangan online dengan jadwal real-time." },
+  { "id": 5, "title": "Landing Page Event Kampus", "client": "BEM Universitas Nusantara", "category": "Website", "year": 2024, "description": "Halaman pendaftaran acara dengan hitung mundur dan formulir." },
+  { "id": 6, "title": "Desain UI Aplikasi Belajar", "client": "Edukita", "category": "UI/UX", "year": 2023, "description": "Rancangan antarmuka aplikasi belajar untuk siswa SMA." }
+]

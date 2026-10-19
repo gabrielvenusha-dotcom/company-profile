@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Rafi Pratama", "role": "Founder & Lead Developer", "bio": "Berpengalaman 8 tahun membangun aplikasi web." },
+  { "id": 2, "name": "Salsa Nurhaliza", "role": "UI/UX Designer", "bio": "Fokus pada desain yang sederhana dan mudah dipahami." },
+  { "id": 3, "name": "Dimas Anggara", "role": "Frontend Developer", "bio": "Suka React, Tailwind, dan detail kecil di tampilan." },
+  { "id": 4, "name": "Putri Maharani", "role": "Project Manager", "bio": "Memastikan setiap project selesai tepat waktu." }
+]

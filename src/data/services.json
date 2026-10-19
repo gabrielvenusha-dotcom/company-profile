@@ -1,0 +1,8 @@
+[
+  { "id": 1, "icon": "💻", "title": "Pembuatan Website", "description": "Website company profile, landing page, dan toko online yang cepat dan responsif." },
+  { "id": 2, "icon": "📱", "title": "Aplikasi Web", "description": "Sistem informasi dan dashboard sesuai kebutuhan operasional bisnis Anda." },
+  { "id": 3, "icon": "🎨", "title": "Desain UI/UX", "description": "Rancangan antarmuka yang rapi, mudah dipakai, dan enak dilihat." },
+  { "id": 4, "icon": "🏷️", "title": "Branding & Logo", "description": "Identitas visual lengkap: logo, warna, dan panduan tampilan brand." },
+  { "id": 5, "icon": "📈", "title": "SEO & Marketing Digital", "description": "Optimasi agar bisnis Anda mudah ditemukan di mesin pencari." },
+  { "id": 6, "icon": "🛠️", "title": "Maintenance & Support", "description": "Perawatan rutin, pembaruan, dan bantuan teknis setelah project selesai." }
+]
